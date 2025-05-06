@@ -1,1 +1,2 @@
 # Web-Design-Development
+StunGo adalah sebuah website yang dirancang untuk memudahkan pengguna mencari informasi dan melakukan reservasi terkait wisata, spa, dan olahraga. Proyek ini bertujuan untuk mengatasi permasalahan seperti sulitnya menemukan informasi terkini dan terpercaya mengenai destinasi wisata, sistem yang rumit, serta kurangnya integrasi teknologi pada beberapa tempat wisata di daerah. Website ini juga bertujuan untuk memudahkan pengolahan database dan meningkatkan mutu pengorganisasian tempat wisata karena sudah terkomputerisasi.
